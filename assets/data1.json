@@ -1,0 +1,308 @@
+[
+  {
+    "title": "banner",
+    "data": [
+      "//i1.mifile.cn/a4/xmad_15590330241391_fkvOo.jpg",
+      "//i1.mifile.cn/a4/xmad_15586821761848_DFqQS.jpg",
+      "//i1.mifile.cn/a4/xmad_15589220285315_AKNrb.jpg",
+      "//i1.mifile.cn/a4/xmad_15517943282724_lhogK.jpg",
+      "//i1.mifile.cn/a4/xmad_15562499146276_ZVsYu.jpg",
+      "//i1.mifile.cn/a4/xmad_1556446296765_eotDT.jpg"
+    ]
+  },
+  {
+    "title":"mobile",
+    "ad": "//i1.mifile.cn/a4/xmad_15589606696364_lPMvT.jpg",
+    "banner":  "//i1.mifile.cn/a4/xmad_15586821761848_DFqQS.jpg",
+    "data" : [
+      {
+        "title": "小米9 6GB+128GB",
+        "flag": { "tag": "new", "txt": "新品" },
+        "desc": "骁龙855，索尼4800万超广角微距三摄",
+        "price" : 2999,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1550642182.7527088!220x220.jpg"
+      },{
+        "title": "小米9 SE 6GB+64GB",
+        "flag": {
+          "tag": "new",
+          "txt": "新品"
+        },
+        "desc": "索尼4800万超广角三摄，骁龙712",
+        "price": 1999,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1550646283.24414368!220x220.jpg"
+      },{
+        "title": "Redmi Note 7 3GB+32G",
+        "flag": {
+          "tag": "new",
+          "txt": "新品"
+        },
+        "desc": "4800万拍照千元机，18个月超长质保",
+        "price": 999,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1547020852.30751177!220x220.jpg"
+      },{
+        "title": "小米Play 4GB+64GB",
+        "flag": {
+          "tag": "new",
+          "txt": "新品"
+        },
+        "desc": "5.84\"小水滴全面屏，后置1200万 AI 双摄",
+        "price": 1099,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1545457719.47232999!220x220.png"
+      },{
+        "title": "小米8青春版6GB+64GB",
+        "flag": {
+          "tag": "saleoff",
+          "txt": "减 200 元"
+        },
+        "desc": "潮流镜面渐变色，2400万自拍旗舰",
+        "price": 1499,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1537324004.08544830!220x220.jpg"
+      },{
+        "title": "小米8 SE 6GB+64GB",
+        "flag": {
+          "tag": "saleoff",
+          "txt": "享8折"
+        },
+        "desc": "三星 AMOLED 全面屏，骁龙710",
+        "price": 1599,
+        "oldprice": 1999,
+        "img": "//i1.mifile.cn/a1/pms_1527685277.65255600!220x220.jpg"
+      },{
+        "title": "小米6X 6GB+128GB",
+        "flag": {
+          "tag": "saleoff",
+          "txt": "享8折"
+        },
+        "desc": "轻薄美观的拍照手机",
+        "price": 1599,
+        "oldprice": 1999,
+        "img": "//i1.mifile.cn/a1/pms_1527685277.65255600!220x220.jpg"
+      },
+      {
+        "title": "红米6A 2GB+16GB",
+        "flag": {
+          "tag": "saleoff",
+          "txt": "减 50 元"
+        },
+        "desc": "12nm高性能处理器，1300万高清相机",
+        "price": 549,
+        "oldprice": 599,
+        "img": "//i1.mifile.cn/a1/pms_1528719461.20891365!220x220.jpg"
+      }
+    ]
+  },
+  {
+    "title": "homeele",
+    "ad": [
+      "//i1.mifile.cn/a4/xmad_15021710762698_QXnBu.jpg",
+      "//i1.mifile.cn/a4/xmad_14967432043621_gmlxi.jpg"
+    ],
+    "banner": "//i1.mifile.cn/a4/xmad_15589220285315_AKNrb.jpg",
+    "data": [
+      {
+        "title": "米家互联网洗烘一体机10kg",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "",
+        "price": 2199,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a4/xmad_15512365381648_yZpKS.jpg",
+        "review": [
+          {
+            "user": "白羊董小姐",
+            "review": "挺好的，洗的也干净，白色很简单，好看"
+          }
+        ]
+      },{
+        "title": "米家互联网空调（一级能效）",
+        "flag": {
+          "tag": "saleoff",
+          "txt": "减 400 元"
+        },
+        "desc": "",
+        "price": 2299,
+        "oldprice": "2699",
+        "img": "//i1.mifile.cn/a1/pms_1545286017.38639954!220x220.jpg",
+        "review": [
+          {
+            "user": "星月的辉歌",
+            "review": "空调很好，杠杠滴，颜值杠杠滴，帅呆了"
+          }
+        ]
+      },{
+        "title": "15.6\"笔记本 i5 4G MX110",
+        "flag": {
+          "tag": "new",
+          "txt": "新品"
+        },
+        "desc": "",
+        "price": 4199,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a4/xmad_15350951136177_QUuVm.png",
+        "review": [
+          {
+            "user": "小小快乐",
+            "review": "物流很快的，笔记本很流畅，体验超级棒，显示屏很清晰"
+          }
+        ]
+      },{
+        "title": "13.3\"小米笔记本Air 四核i7 8G 256G MX150 银色",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "",
+        "price": 5999,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1524636075.71677607!220x220.jpg",
+        "review": [
+          {
+            "user": "1*215219",
+            "review": "轻薄完美，深空灰超帅！"
+          }
+        ]
+      },{
+        "title": "米家空气净化器Pro",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "OLED 显示屏幕 / 激光颗粒物传感器",
+        "price": 1499,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a4/xmad_14972549116226_tZpod.png",
+        "review": [
+          {
+            "user": "2156774032",
+            "review": "小小的 喜欢 希望可以用久一点 还是不错的"
+          }
+        ]
+      },{
+        "title": "米家电水壶",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "一杯水，是一家人的安心",
+        "price": 99,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1504498936.11861982!220x220.jpg",
+        "review": [
+          {
+            "user": "针掉在路上",
+            "review": "变成忠实的米粉了，烧水很快声音也小，顺便晒几张小米8..."
+          }
+        ]
+      },{
+        "title": "米家LED吸顶灯",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "用光线，还原理想生活",
+        "price": 399,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a4/xmad_15281923207128_rOfDp.png",
+        "review": [
+          {
+            "user": "余崇泰",
+            "review": "灯光明亮，家里也用小米吸顶灯，店里也用，质量很好！手..."
+          }
+        ]
+      },{
+        "title": "小米净水器（厨下式）",
+        "flag": {
+          "tag": "",
+          "txt": ""
+        },
+        "desc": "",
+        "price": 1999,
+        "oldprice": "",
+        "img": "//i1.mifile.cn/a1/pms_1521634907.16181074!220x220.jpg",
+        "review": ""
+      }
+    ]
+  },
+  {
+    "title": "热评产品",
+    "data": [
+      {
+        "img": "//i1.mifile.cn/a4/bae79ac6-60d5-478d-90e7-ff1222764bd1",
+        "review": "超级喜欢！小巧玲珑！音质完美！不知道为什么！只要是小米出的东西我都喜欢！那倒是因为那一句？？小米为发骚而生？？",
+        "user": "田密",
+        "goods": "小米随身蓝牙音箱",
+        "price": 69
+      },
+      {
+        "img": "//i1.mifile.cn/a4/bae79ac6-60d5-478d-90e7-ff1222764bd1",
+        "review": "超级喜欢！小巧玲珑！音质完美！不知道为什么！只要是小米出的东西我都喜欢！那倒是因为那一句？？小米为发骚而生？？",
+        "user": "田密",
+        "goods": "小米随身蓝牙音箱",
+        "price": 69
+      },
+      {
+        "img": "//i1.mifile.cn/a4/bae79ac6-60d5-478d-90e7-ff1222764bd1",
+        "review": "超级喜欢！小巧玲珑！音质完美！不知道为什么！只要是小米出的东西我都喜欢！那倒是因为那一句？？小米为发骚而生？？",
+        "user": "田密",
+        "goods": "小米随身蓝牙音箱",
+        "price": 69
+      },
+      {
+        "img": "//i1.mifile.cn/a4/bae79ac6-60d5-478d-90e7-ff1222764bd1",
+        "review": "超级喜欢！小巧玲珑！音质完美！不知道为什么！只要是小米出的东西我都喜欢！那倒是因为那一句？？小米为发骚而生？？",
+        "user": "田密",
+        "goods": "小米随身蓝牙音箱",
+        "price": 69
+      }
+    ]
+  },
+  {
+    "title": "内容",
+    "data": [
+      {
+        "title": "哈利·波特与被诅咒的孩子",
+        "desc": "哈利·波特”第八个故事中文版震撼来袭！特别彩排版剧本！ ",
+        "price": 29.37,
+        "img": "//i1.mifile.cn/a4/5e5da924-84e3-4959-9e25-5891cdf30757"
+      },
+      {
+        "title": "好吗好的",
+        "desc": "畅销作家大冰2016年新书！讲给你听，好吗好的！",
+        "price": 17.99,
+        "img": "//i1.mifile.cn/a4/61e1385e-54de-48f3-8717-5e4f4b1cdd14"
+      }
+    ]
+  },
+  {
+    "title": "视频",
+    "data": [
+      {
+        "title": "王源 & 小米9 全新广告大片",
+        "desc": "好看又能打！我反正被帅到了，Will You？",
+        "img": "//i1.mifile.cn/a4/xmad_15519428237288_Exonu.jpg"
+      },
+      {
+        "title": "雷军对话王源",
+        "desc": "聊了3小时，这9个秘密决定公开",
+        "img": "//i1.mifile.cn/a4/xmad_15519291062065_hikIJ.jpg"
+      },
+      {
+        "title": "小米MIX 3 磁动力滑盖全面屏",
+        "desc": "全新滑盖交互体验，不一样的新感觉",
+        "img": "//i1.mifile.cn/a4/xmad_15519293321746_ChIsr.jpg"
+      },
+      {
+        "title": "小米MIX 3 故宫特别版",
+        "desc": "传承中华国宝艺术之美",
+        "img": "//i1.mifile.cn/a4/xmad_15519292842527_ujNMV.jpg"
+      }
+    ]
+  }
+]

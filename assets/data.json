@@ -1,0 +1,1233 @@
+{
+  "topBarData": [
+    "小米商城",
+    "MIUI",
+    "IoT",
+    "云服务",
+    "金融",
+    "有品",
+    "小爱开放平台",
+    "企业团购",
+    "资质证照",
+    "协议规则",
+    "下载app",
+    "Select Region"
+  ],
+  "navData": [
+    {
+      "title": "小米手机",
+      "items": [
+        {
+          "title": "小米9",
+          "price": "2999元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mi9-320.png"
+        },
+        {
+          "title": "小米9 SE",
+          "price": "1999元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mi9se-320.png"
+        },
+        {
+          "title": "小米8 青春版",
+          "price": "1499元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/qingchun-320.png"
+        },
+        {
+          "title": "小米MIX 3",
+          "price": "3299元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mix3-320.png"
+        },
+        {
+          "title": "小米8",
+          "price": "2599元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8.png"
+        },
+        {
+          "title": "小米Play",
+          "price": "1099元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/pc-320-miplay-1.png"
+        }
+      ]
+    },
+    {
+      "title": "红米",
+      "items": [
+        {
+          "title": "Redmi Note 7 Pro",
+          "price": "1599元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2019/redmi.jpg"
+        },
+        {
+          "title": "Redmi Note 7",
+          "price": "999元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/note7320-220.png"
+        },
+        {
+          "title": "Redmi 7",
+          "price": "699元",
+          "flags": "新品",
+          "img": "https://i1.mifile.cn/f/i/2019/redmi7/320-220.png"
+        },
+        {
+          "title": "红米6",
+          "price": "729元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/666320.png"
+        },
+        {
+          "title": "红米6A",
+          "price": "549元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/6A320.png"
+        }
+      ]
+    },
+    {
+      "title": "电视",
+      "items": [
+        {
+          "title": "小米壁画电视 65英寸",
+          "price": "6999元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/bihuadianshi.jpg"
+        },
+        {
+          "title": "小米全面屏电视E55A",
+          "price": "2249元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/quanmianping55A.jpg"
+        },
+        {
+          "title": "小米电视4A 32英寸",
+          "price": "799元",
+          "flags": "热卖",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/32.png"
+        },
+        {
+          "title": "小米电视4A 55英寸",
+          "price": "2099元",
+          "flags": "热卖",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4A-55.jpg"
+        },
+        {
+          "title": "小米电视4A 65英寸",
+          "price": "2849元",
+          "flags": "热卖",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4a653202201.jpg"
+        },
+        {
+          "title": "查看全部小米电视",
+          "price": "",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/475toutu.png"
+        }
+      ]
+    },
+    {
+      "title": "笔记本",
+      "items": [
+        {
+          "title": "小米笔记本 Air 12.5\"",
+          "price": "3599元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/12.5yinsetoubu.png"
+        },
+        {
+          "title": "小米笔记本 Air 13.3\"",
+          "price": "4799元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/13.3huise.png"
+        },
+        {
+          "title": "小米笔记本 15.6\"",
+          "price": "3399元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/rubyheise.png"
+        },
+        {
+          "title": "小米笔记本 Pro 15.6\"",
+          "price": "5599元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/WechatIMG603.png"
+        },
+        {
+          "title": "小米游戏本",
+          "price": "6499元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/xinbijiben.png"
+        },
+        {
+          "title": "小米平板",
+          "price": "1099元起",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/pingbanok.png"
+        }
+      ]
+    },
+    {
+      "title": "家电",
+      "items": [
+        {
+          "title": "米家互联网立式空调C1",
+          "price": "2999元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/lishikongtiao320.png"
+        },
+        {
+          "title": "米家互联网洗烘一体机",
+          "price": "2199元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/320_220.jpg"
+        },
+        {
+          "title": "Redmi全自动波轮洗衣机",
+          "price": "899元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/redmixiyiji.jpg"
+        },
+        {
+          "title": "小米净水器",
+          "price": "1999元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/xiaomijingshuiqi.jpg"
+        },
+        {
+          "title": "米家扫地机器人",
+          "price": "1699元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/saodijiqiren320-220.jpg"
+        },
+        {
+          "title": "新风机",
+          "price": "2699元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/xinfeng.jpg"
+        }
+      ]
+    },
+    {
+      "title": "新品",
+      "items": [
+        {
+          "title": "Redmi Note 7 Pro",
+          "price": "1599元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2019/redmi.jpg"
+        },
+        {
+          "title": "小米9",
+          "price": "2999元起",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2019/mi9-320.jpg"
+        },
+        {
+          "title": "小米9 SE",
+          "price": "1999元起",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2019/mi9-se-320.jpg"
+        },
+        {
+          "title": "红米Note 7",
+          "price": "999元起",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2019/redminote-7-320.jpg"
+        },
+        {
+          "title": "小米无线充电宝 10000mAh",
+          "price": "149元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2019/chongdianbao-320.jpg"
+        },
+        {
+          "title": "小米无线车充",
+          "price": "169元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2019/wuxianchechong-320.jpg"
+        }
+      ]
+    },
+    {
+      "title": "路由器",
+      "items": [
+        {
+          "title": "小米路由器 Mesh",
+          "price": "999元",
+          "flags": "新品",
+          "img": "//i1.mifile.cn/f/i/g/2019/luyoumesh.jpg"
+        },
+        {
+          "title": "小米路由器4A 千兆版",
+          "price": "169元",
+          "flags": "双频双核",
+          "img": "//i1.mifile.cn/f/i/g/2019/qianzhao.jpg"
+        },
+        {
+          "title": "小米路由器 4C",
+          "price": "99元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/luyouqi41C.jpg"
+        },
+        {
+          "title": "小米路由器4A",
+          "price": "119元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/luyouqi4A.jpg"
+        },
+        {
+          "title": "小米路由器 HD/Pro",
+          "price": "499元起",
+          "flags": "大容量",
+          "img": "//i1.mifile.cn/f/i/g/2015/PRO.png"
+        },
+        {
+          "title": "查看全部小米路由器",
+          "price": "",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/quanbuluyouqi.png"
+        }
+      ]
+    },
+    {
+      "title": "智能硬件",
+      "items": [
+        {
+          "title": "小米米家智能摄像机云台版",
+          "price": "199元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/yuntai.jpg"
+        },
+        {
+          "title": "米家自动洗手机套装",
+          "price": "79元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/xishouj.jpg"
+        },
+        {
+          "title": "小米蓝牙耳机AirDots青春版",
+          "price": "199元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2015/airdots.jpg"
+        },
+        {
+          "title": "小米小爱触屏音箱",
+          "price": "299元",
+          "flags": "",
+          "img": "//i1.mifile.cn/f/i/g/2019/chuping.jpg"
+        },
+        {
+          "title": "米家电动剃须刀",
+          "price": "199元",
+          "flags": "",
+          "img": "https://i1.mifile.cn/f/i/g/2015/gif/tixudao.jpg"
+        },
+        {
+          "title": "查看全部智能硬件",
+          "price": "",
+          "flags": "",
+          "img": "https://i1.mifile.cn/f/i/g/2015/gif/shouhuanNFC.jpg"
+        }
+      ]
+    },
+    {
+      "title": "服务",
+      "items": []
+    },
+    {
+      "title": "社区",
+      "items": []
+    }
+  ],
+  "slider": [
+    "//i1.mifile.cn/a4/xmad_15589727023867_clXqL.jpg",
+    "//i1.mifile.cn/a4/xmad_15589727479321_xqZHt.jpg",
+    "//i1.mifile.cn/a4/xmad_15586683348207_opnBm.jpg",
+    "//i1.mifile.cn/a4/xmad_15548066591437_Stxlj.jpg",
+    "//i1.mifile.cn/a4/xmad_15589219834033_YdMas.jpg"
+  ],
+  "sliderBottomImgs": [
+    "//i1.mifile.cn/a4/xmad_15564509814653_bkvmP.jpg",
+    "//i1.mifile.cn/a4/xmad_15553962519926_fcMZl.jpg",
+    "//i1.mifile.cn/a4/xmad_15410599445473_Ivjsb.jpg"
+  ],
+  "adImgs": "Vue动态渲染的",
+  "menuData": [
+    {
+      "title": "手机 电话卡",
+      "data": [
+        {
+          "title": "小米9",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mi9-140.png",
+          "url": "https://www.mi.com/mi9/"
+        },
+        {
+          "title": "小米9 SE",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mi9se-140.png",
+          "url": "https://www.mi.com/mi9se/"
+        },
+        {
+          "title": "小米MIX 3",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mix3-140.png",
+          "url": "https://www.mi.com/mix3/"
+        },
+        {
+          "title": "小米8 青春版",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/qingchun-140.png",
+          "url": "https://www.mi.com/mi8youth/"
+        },
+        {
+          "title": "小米8 屏幕指纹版",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/pingmu-140.png",
+          "url": "https://www.mi.com/mi8ud/"
+        },
+        {
+          "title": "小米8",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/m8-140.png",
+          "url": "https://www.mi.com/mi8/"
+        },
+        {
+          "title": "小米8 SE",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/m8se-140.png",
+          "url": "https://www.mi.com/mi8i/"
+        },
+        {
+          "title": "小米MIX 2S",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mix2140-140white.png",
+          "url": "https://www.mi.com/mix2s/"
+        },
+        {
+          "title": "小米Max 3",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/max3-140-140.png",
+          "url": "https://www.mi.com/max3/"
+        },
+        {
+          "title": "小米6X",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/80808080808080!70x70.jpg",
+          "url": "https://www.mi.com/mi6x/"
+        },
+        {
+          "title": "黑鲨游戏手机 2",
+          "img": "//i1.mifile.cn/f/i/2019/blacksharkg2/123!70x70.jpg",
+          "url": "https://www.mi.com/blackshark-game2/"
+        },
+        {
+          "title": "黑鲨游戏手机 Helo",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/heishahelo-140.png",
+          "url": "https://www.mi.com/blackshark2/"
+        },
+        {
+          "title": "Redmi 7",
+          "img": "//i1.mifile.cn/f/i/g/PC_140-140!70x70.jpg",
+          "url": "https://item.mi.com/product/10000138.html"
+        },
+        {
+          "title": "Redmi Note 7 Pro",
+          "img": "//i1.mifile.cn/f/i/g/redminote7pro!70x70.jpg",
+          "url": "https://www.mi.com/redminote7pro/"
+        },
+        {
+          "title": "Redmi Note 7",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/note7140-140.png",
+          "url": "https://www.mi.com/redminote7/"
+        },
+        {
+          "title": "红米6",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/666666.png",
+          "url": "//www.mi.com/redmi6/"
+        },
+        {
+          "title": "红米6A",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/6AAAA.png",
+          "url": "//www.mi.com/redmi6a/"
+        },
+        {
+          "title": "红米Note 5",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/note5-140-140.png",
+          "url": "https://www.mi.com/redminote5/"
+        },
+        {
+          "title": "移动4G+专区",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/4G140!70x70.jpg",
+          "url": "//www.mi.com/p/5592.html"
+        },
+        {
+          "title": "对比手机",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/compare!70x70.jpg",
+          "url": "//www.mi.com/compare/"
+        },
+        {
+          "title": "米粉卡 日租卡",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/mifenka-1!70x70.jpg",
+          "url": "https://www.mi.com/micard"
+        },
+        {
+          "title": "小米移动 电话卡",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/mimobile!70x70.jpg",
+          "url": "//www.mi.com/mimobile/"
+        },
+        {
+          "title": "手机上门维修",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/weixiu140-140.png",
+          "url": "https://item.mi.com/product/7532.html"
+        },
+        {
+          "title": "云服务空间月卡",
+          "img": "https://i1.mifile.cn/f/i/g/2015/yunfuwu!70x70.jpg",
+          "url": "https://item.mi.com/product/8262.html"
+        }
+      ]
+    },
+    {
+      "title": "电视 盒子",
+      "data": [
+        {
+          "title": "米家激光投影电视",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mijiajiguang4k!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%BF%80%E5%85%89"
+        },
+        {
+          "title": "小米壁画电视 65英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/bihua!70x70.jpg",
+          "url": "https://www.mi.com/arttv/"
+        },
+        {
+          "title": "小米全面屏电视",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/E55ADIANSHI!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%85%A8%E9%9D%A2%E5%B1%8Fe"
+        },
+        {
+          "title": "小米电视4A 32英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4A-32.png",
+          "url": "///www.mi.com/mitv4A/32/"
+        },
+        {
+          "title": "小米电视4A 43英寸青春版",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4A-43QC.png",
+          "url": "https://www.mi.com/mitv4A/43y"
+        },
+        {
+          "title": "小米电视4A 49英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4A49!70x70.jpg",
+          "url": "https://www.mi.com/mitv4A/49/"
+        },
+        {
+          "title": "小米电视4A 50英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4A-50.png",
+          "url": "//www.mi.com/mitv4A/50"
+        },
+        {
+          "title": "小米电视4A 55英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/55120120.png",
+          "url": "//www.mi.com/mitv4A/55/"
+        },
+        {
+          "title": "小米电视4A 58英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4A-58-x.png",
+          "url": "//www.mi.com/mitv4A/58/"
+        },
+        {
+          "title": "小米电视4A 65英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/65120_120.png",
+          "url": "//www.mi.com/mitv4A/65/"
+        },
+        {
+          "title": "小米电视4C 32英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4C-32.png",
+          "url": "//www.mi.com/mitv4c/32/"
+        },
+        {
+          "title": "小米电视4C 40英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4c-40!70x70.jpg",
+          "url": "https://www.mi.com/mitv4c/40/"
+        },
+        {
+          "title": "小米电视4C 43英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4C-43.png",
+          "url": "//www.mi.com/mitv4c/43/"
+        },
+        {
+          "title": "小米电视4C 50英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4C-50.png",
+          "url": "https://www.mi.com/mitv4c/50/"
+        },
+        {
+          "title": "小米电视4C 55英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4C55!70x70.jpg",
+          "url": "https://www.mi.com/mitv4c/55/"
+        },
+        {
+          "title": "小米电视4X 43英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4X-43xin.png",
+          "url": "https://www.mi.com/mitv4x/43/"
+        },
+        {
+          "title": "小米电视4X 55英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4X-55.png",
+          "url": "//www.mi.com/mitv4x/55/"
+        },
+        {
+          "title": "小米电视4X 65英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/4X65!70x70.jpg",
+          "url": "https://item.mi.com/product/9666.html"
+        },
+        {
+          "title": "小米电视4 55英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4-55.png",
+          "url": "//www.mi.com/mitv4/55/"
+        },
+        {
+          "title": "小米电视4 65英寸旗舰版",
+          "img": "//i1.mifile.cn/f/i/g/2015/65yiti!70x70.jpg",
+          "url": "https://www.mi.com/mitv4/65aio/"
+        },
+        {
+          "title": "小米电视4 75英寸",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/475!70x70.jpg",
+          "url": "https://www.mi.com/mitv4/75/"
+        },
+        {
+          "title": "小米电视4S",
+          "img": "//i1.mifile.cn/f/i/g/2015/TV4S-32.png",
+          "url": "https://search.mi.com/search_%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%864s"
+        },
+        {
+          "title": "小米电视 体育版",
+          "img": "//i1.mifile.cn/f/i/g/2015/TVTYB.png",
+          "url": "//search.mi.com/search_%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E4%BD%93%E8%82%B2%E7%89%88"
+        },
+        {
+          "title": "小米盒子",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/hezibai480_80!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%B0%8F%E7%B1%B3%E7%9B%92%E5%AD%90"
+        }
+      ]
+    },
+    {
+      "title": "笔记本 平板",
+      "data": [
+        {
+          "title": "小米笔记本 15.6\"",
+          "img": "//i1.mifile.cn/f/i/g/bijiben140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%AC%94%E8%AE%B0%E6%9C%AC-246"
+        },
+        {
+          "title": "小米笔记本 13.3\"",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/80x80.png",
+          "url": "https://search.mi.com/search_%E7%AC%94%E8%AE%B0%E6%9C%AC-247"
+        },
+        {
+          "title": "小米笔记本 12.5\"",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/bijiben140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%AC%94%E8%AE%B0%E6%9C%AC-248"
+        },
+        {
+          "title": "小米游戏本",
+          "img": "//i1.mifile.cn/f/i/g/2015/youxiben140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%AC%94%E8%AE%B0%E6%9C%AC-249"
+        },
+        {
+          "title": "小米平板4",
+          "img": "//i1.mifile.cn/f/i/g/2015/pingban1!70x70.jpg",
+          "url": "https://item.mi.com/product/10000108.html"
+        },
+        {
+          "title": "键盘",
+          "img": "//i1.mifile.cn/f/i/g/2015/yuemijianpan140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%94%AE%E7%9B%98"
+        },
+        {
+          "title": "鼠标／鼠标垫",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/wxsb140.png",
+          "url": "https://search.mi.com/search_%E9%BC%A0%E6%A0%87"
+        },
+        {
+          "title": "转接器",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/usbzjqggg140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%BD%AC%E6%8E%A5%E5%99%A8"
+        },
+        {
+          "title": "平板配件",
+          "img": "//i1.mifile.cn/f/i/g/2015/xiaomipingbanpeijian140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%B9%B3%E6%9D%BF%E9%85%8D%E4%BB%B6"
+        },
+        {
+          "title": "笔记本双肩包",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/bijibenshuangjianbao160!70x70.jpg",
+          "url": "https://search.mi.com/search_笔记本双肩包"
+        },
+        {
+          "title": "小米笔记本内胆包",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/meidanbao140!70x70.jpg",
+          "url": "//list.mi.com/accessories/tag?id=neidanbao"
+        }
+      ]
+    },
+    {
+      "title": "家电 插线板",
+      "data": [
+        {
+          "title": "米家互联网立式空调C1",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/lishikongtiao.png",
+          "url": "https://www.mi.com/aircondition-f/f3c1/"
+        },
+        {
+          "title": "米家互联网空调",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/kongtiaoguan140.png",
+          "url": "https://search.mi.com/search_%E7%B1%B3%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E7%A9%BA%E8%B0%83"
+        },
+        {
+          "title": "米家空调",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mijiakongtiao!70x70.jpg",
+          "url": "https://www.mi.com/aircondition/f3w1/"
+        },
+        {
+          "title": "米家互联网洗烘一体机",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/xiyiji!70x70.jpg",
+          "url": "https://www.mi.com/washer-dryer-10/"
+        },
+        {
+          "title": "Redmi全自动波轮洗衣机",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/redmibolunxiyiji!70x70.jpg",
+          "url": "https://item.mi.com/product/9509.html"
+        },
+        {
+          "title": "净水器",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/jingshuiqi140haha!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%87%80%E6%B0%B4%E5%99%A8-132"
+        },
+        {
+          "title": "净水器滤芯",
+          "img": "//i1.mifile.cn/f/i/g/2015/lvxinyibaisi.png",
+          "url": "https://search.mi.com/search_%E5%87%80%E6%B0%B4%E5%99%A8%E6%BB%A4%E8%8A%AF"
+        },
+        {
+          "title": "扫地机器人",
+          "img": "//i1.mifile.cn/f/i/g/2019/saodi!70x70.jpg",
+          "url": "https://www.mi.com/roomrobot/?cfrom=search"
+        },
+        {
+          "title": "吸尘器",
+          "img": "//i1.mifile.cn/f/i/g/2019/xichenqi!70x70.jpg",
+          "url": "https://www.mi.com/vacuum-cleaner/"
+        },
+        {
+          "title": "空气净化器",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/jinghuaqi2S-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%87%80%E5%8C%96%E5%99%A8-116"
+        },
+        {
+          "title": "电饭煲",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/yalidianfanbao-140!70x70.jpg",
+          "url": "https://search.mi.com/search_电饭煲"
+        },
+        {
+          "title": "电磁炉",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/daincilu-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%94%B5%E7%A3%81%E7%82%89-189"
+        },
+        {
+          "title": "厨房用具",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/tangguo-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%9F%A5%E5%90%BE%E7%85%AE-0-0-0-0-1-0-0-0-1"
+        },
+        {
+          "title": "电水壶",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/dianshuihu-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%94%B5%E6%B0%B4%E5%A3%B6"
+        },
+        {
+          "title": "滤水壶",
+          "img": "//i1.mifile.cn/f/i/g/2015/lvshuihu140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%BB%A4%E6%B0%B4%E5%A3%B6"
+        },
+        {
+          "title": "落地风扇",
+          "img": "//i1.mifile.cn/f/i/g/2015/dianfengshan140.png",
+          "url": "https://search.mi.com/search_%E9%A3%8E%E6%89%87-159"
+        },
+        {
+          "title": "投影仪",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/touyingqingchun.png",
+          "url": "https://www.mi.com/projection-youth/"
+        },
+        {
+          "title": "灯具",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/xidingdeng-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%81%AF%E5%85%B7"
+        },
+        {
+          "title": "插线板",
+          "img": "//i1.mifile.cn/f/i/g/2015/chaxianban140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%8F%92%E7%BA%BF%E6%9D%BF-125"
+        },
+        {
+          "title": "新风机",
+          "img": "//i1.mifile.cn/f/i/g/2015/xinfengji!70x70.jpg",
+          "url": "//search.mi.com/search_%E6%96%B0%E9%A3%8E%E6%9C%BA"
+        },
+        {
+          "title": "电暖器",
+          "img": "//i1.mifile.cn/f/i/g/2015/diannuanqi!70x70.jpg",
+          "url": "https://item.mi.com/product/9145.html"
+        },
+        {
+          "title": "电压力锅",
+          "img": "//i1.mifile.cn/f/i/g/2015/yalidianfan!70x70.jpg",
+          "url": "https://item.mi.com/1190200053.html"
+        },
+        {
+          "title": "料理机",
+          "img": "//i1.mifile.cn/f/i/g/2019/liaoli!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%96%99%E7%90%86%E6%9C%BA"
+        },
+        {
+          "title": "电煮壶",
+          "img": "//i1.mifile.cn/f/i/g/2019/dianzhuhu!70x70.jpg",
+          "url": "https://item.mi.com/product/9529.html"
+        }
+      ]
+    },
+    {
+      "title": "出行 穿戴",
+      "data": [
+        {
+          "title": "手环手表",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/shouhuan3140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%89%8B%E7%8E%AF%E6%89%8B%E8%A1%A8-111"
+        },
+        {
+          "title": "VR",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/VRyitiji140!70x70.jpg",
+          "url": "https://search.mi.com/search_vr-163"
+        },
+        {
+          "title": "平衡车",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/scooter-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%B9%B3%E8%A1%A1%E8%BD%A6-139"
+        },
+        {
+          "title": "滑板车",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/scooter2-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%BB%91%E6%9D%BF%E8%BD%A6-178"
+        },
+        {
+          "title": "车载逆变器",
+          "img": "//i1.mifile.cn/f/i/g/2015/chezainibianqi140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%BD%A6%E8%BD%BD%E9%80%86%E5%8F%98%E5%99%A8"
+        },
+        {
+          "title": "平衡车配件",
+          "img": "//i1.mifile.cn/f/i/g/2015/peijian140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%B9%B3%E8%A1%A1%E8%BD%A6-30"
+        },
+        {
+          "title": "智能后视镜",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mirror-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%90%8E%E8%A7%86%E9%95%9C-183"
+        },
+        {
+          "title": "智能记录仪",
+          "img": "//i1.mifile.cn/f/i/g/2015/jiluyi!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%AE%B0%E5%BD%95%E4%BB%AA-272"
+        },
+        {
+          "title": "车载空气净化器",
+          "img": "//i1.mifile.cn/f/i/g/2015/chezaikongjing!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%BD%A6%E8%BD%BD-237"
+        },
+        {
+          "title": "无线车充",
+          "img": "//i1.mifile.cn/f/i/g/2019/chechong!70x70.jpg",
+          "url": "https://item.mi.com/product/9357.html"
+        },
+        {
+          "title": "充气宝",
+          "img": "//i1.mifile.cn/f/i/g/2019/chongqi!70x70.jpg",
+          "url": "https://item.mi.com/product/9613.html"
+        }
+      ]
+    },
+    {
+      "title": "智能 路由器",
+      "data": [
+        {
+          "title": "打印机",
+          "img": "//i1.mifile.cn/f/i/g/2015/zhaopiandayinj!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%89%93%E5%8D%B0%E6%9C%BA-265"
+        },
+        {
+          "title": "路由器",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/luyouqi4140!70x70.jpg",
+          "url": "//www.mi.com/a/h/8363.html"
+        },
+        {
+          "title": "智能家庭",
+          "img": "//i1.mifile.cn/f/i/g/2015/zhinengjiating140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%99%BA%E8%83%BD%E5%AE%B6%E5%BA%AD-130"
+        },
+        {
+          "title": "对讲机",
+          "img": "//i1.mifile.cn/f/i/g/2015/duijiangji!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%AF%B9%E8%AE%B2%E6%9C%BA-261"
+        },
+        {
+          "title": "无人机",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/wurenji140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%97%A0%E4%BA%BA%E6%9C%BA-155"
+        },
+        {
+          "title": "摄像机",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/camera-head-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%91%84%E5%83%8F%E6%9C%BA-114"
+        },
+        {
+          "title": "照相机",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/camera-small-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%9B%B8%E6%9C%BA-122"
+        },
+        {
+          "title": "智能门锁",
+          "img": "//i1.mifile.cn/f/i/g/2015/mensuo!70x70.jpg",
+          "url": "https://item.mi.com/product/9120.html"
+        },
+        {
+          "title": "视频门铃",
+          "img": "//i1.mifile.cn/f/i/g/2019/menling!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%97%A8%E9%93%83"
+        }
+      ]
+    },
+    {
+      "title": "电源  配件",
+      "data": [
+        {
+          "title": "移动电源",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/dianyuan2.1000-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90-12"
+        },
+        {
+          "title": "数据线",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/shujuxian-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%95%B0%E6%8D%AE%E7%BA%BF-16"
+        },
+        {
+          "title": "车充",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/chezaichongdianqi140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%BD%A6%E5%85%85-15"
+        },
+        {
+          "title": "充电器",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/chongdianqi-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E5%99%A8-15"
+        },
+        {
+          "title": "无线充",
+          "img": "//i1.mifile.cn/f/i/g/2015/wuxianchong140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E5%99%A8"
+        },
+        {
+          "title": "电池",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/7Battery2!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%94%B5%E6%B1%A0-14"
+        },
+        {
+          "title": "自拍杆",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/zipaigan160!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%87%AA%E6%8B%8D%E6%9D%86-5"
+        },
+        {
+          "title": "手机壳",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/baohutao!70x70.jpg",
+          "url": "//list.mi.com/8-0-0-0-0-0-0-0-1"
+        },
+        {
+          "title": "手机贴膜",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/tiemo!70x70.jpg",
+          "url": "//list.mi.com/9"
+        },
+        {
+          "title": "手机支架",
+          "img": "//i1.mifile.cn/f/i/g/2015/shoujizhijia140!70x70.jpg",
+          "url": "//item.mi.com/1162000043.html?cfrom=search"
+        },
+        {
+          "title": "平板配件",
+          "img": "//i1.mifile.cn/f/i/g/2015/pingban140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%B9%B3%E6%9D%BF%E9%85%8D%E4%BB%B6"
+        },
+        {
+          "title": "黑鲨配件",
+          "img": "//i1.mifile.cn/f/i/g/2015/heishashoubing140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%BB%91%E9%B2%A8%E9%85%8D%E4%BB%B6"
+        },
+        {
+          "title": "其他配件",
+          "img": "//i1.mifile.cn/f/i/g/2015/qitapeijian140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%85%B6%E4%BB%96-241"
+        }
+      ]
+    },
+    {
+      "title": "健康 儿童",
+      "data": [
+        {
+          "title": "洗手机",
+          "img": "https://i1.mifile.cn/f/i/g/2015/xishouji!70x70.jpg",
+          "url": "https://www.mi.com/dispenser/"
+        },
+        {
+          "title": "剃须刀",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/tixvdao140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%89%83%E9%A1%BB%E5%88%80-197"
+        },
+        {
+          "title": "日光镜",
+          "img": "//i1.mifile.cn/f/i/g/2015/riguang!70x70.jpg",
+          "url": "https://item.mi.com/product/9235.html"
+        },
+        {
+          "title": "牙刷",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/yashua140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%89%99%E5%88%B7-198"
+        },
+        {
+          "title": "吹风机",
+          "img": "//i1.mifile.cn/f/i/g/2015/chuifengji!70x70.jpg",
+          "url": "https://item.mi.com/1184700005.html"
+        },
+        {
+          "title": "体重秤",
+          "img": "//c1.mifile.cn/f/i/15/goods/sidebar/scale!70x70.jpg",
+          "url": "https://search.mi.com/search_%E4%BD%93%E9%87%8D%E7%A7%A4"
+        },
+        {
+          "title": "体脂秤",
+          "img": "//i1.mifile.cn/f/i/g/2019/tizhicheng!70x70.jpg",
+          "url": "https://search.mi.com/search_%E4%BD%93%E8%84%82%E7%A7%A4"
+        },
+        {
+          "title": "血压计",
+          "img": "//i1.mifile.cn/f/i/g/2015/xueyaji140!70x70.jpg",
+          "url": "https://item.mi.com/product/3674.html"
+        },
+        {
+          "title": "体温计",
+          "img": "//i1.mifile.cn/f/i/g/2015/tiwenji140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E4%BD%93%E6%B8%A9%E8%AE%A1"
+        },
+        {
+          "title": "早教启智",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/mitugushi-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%97%A9%E6%95%99%E5%90%AF%E6%99%BA-200"
+        },
+        {
+          "title": "遥控电动",
+          "img": "//i1.mifile.cn/f/i/g/2015/XIAOFEIJIYIBAISI!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%81%A5%E6%8E%A7%E7%94%B5%E5%8A%A8-201"
+        },
+        {
+          "title": "益智积木",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/toyblock2-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%9B%8A%E6%99%BA%E7%A7%AF%E6%9C%A8-196"
+        },
+        {
+          "title": "儿童手表",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/shoubiao2140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8-199"
+        },
+        {
+          "title": "儿童滑板车",
+          "img": "//i1.mifile.cn/f/i/g/2015/huanbanche140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%84%BF%E7%AB%A5%E6%BB%91%E6%9D%BF%E8%BD%A6-202"
+        },
+        {
+          "title": "米兔拉杆箱",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/laganxiang!70x70.jpg",
+          "url": "https://item.mi.com/product/8878.html"
+        },
+        {
+          "title": "婴儿推车",
+          "img": "https://i1.mifile.cn/f/i/g/2015/gif/tuiche!70x70.jpg",
+          "url": "https://item.mi.com/product/9029.html"
+        },
+        {
+          "title": "儿童书包",
+          "img": "//i1.mifile.cn/f/i/g/2015/shubao2!70x70.jpg",
+          "url": "https://item.mi.com/product/10000130.html"
+        },
+        {
+          "title": "婴儿理发器",
+          "img": "//i1.mifile.cn/f/i/g/2015/lifa!70x70.jpg",
+          "url": "https://item.mi.com/product/9315.html"
+        },
+        {
+          "title": "儿童保温杯",
+          "img": "//i1.mifile.cn/f/i/g/2019/baowenb!70x70.jpg",
+          "url": "https://item.mi.com/product/9317.html"
+        },
+        {
+          "title": "走步机",
+          "img": "//i1.mifile.cn/f/i/g/2019/zoubu!70x70.jpg",
+          "url": "https://www.mi.com/treadmill/?cfrom=search"
+        },
+        {
+          "title": "点读笔",
+          "img": "//i1.mifile.cn/f/i/g/2019/diandubi!70x70.jpg",
+          "url": "https://item.mi.com/product/9834.html"
+        }
+      ]
+    },
+    {
+      "title": "耳机 音箱",
+      "data": [
+        {
+          "title": "小米小爱音箱mini",
+          "img": "//i1.mifile.cn/f/i/g/2015/xiaoaimini-08!70x70.jpg",
+          "url": "https://item.mi.com/product/7832.html"
+        },
+        {
+          "title": "线控耳机",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/erji140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%BA%BF%E6%8E%A7%E8%80%B3%E6%9C%BA-205"
+        },
+        {
+          "title": "蓝牙耳机",
+          "img": "//i1.mifile.cn/f/i/g/2019/airdots!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA-206"
+        },
+        {
+          "title": "头戴耳机",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/toudai140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%A4%B4%E6%88%B4%E8%80%B3%E6%9C%BA-207"
+        },
+        {
+          "title": "品牌耳机",
+          "img": "//c1.mifile.cn/f/i/g/2015/video/pinpai140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%93%81%E7%89%8C%E8%80%B3%E6%9C%BA-18"
+        },
+        {
+          "title": "蓝牙音箱",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/800-800-3!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1-208"
+        },
+        {
+          "title": "小米AI音箱",
+          "img": "//i1.mifile.cn/f/i/g/2015/xiaoai!70x70.jpg",
+          "url": "https://www.mi.com/aispeaker/"
+        },
+        {
+          "title": "小米小爱音箱HD",
+          "img": "//i1.mifile.cn/f/i/g/2015/xiaoaiyinxhd!70x70.jpg",
+          "url": "https://item.mi.com/product/9151.html"
+        },
+        {
+          "title": "k歌耳机",
+          "img": "//i1.mifile.cn/f/i/g/2015/kgeerji!70x70.jpg",
+          "url": "https://search.mi.com/search_k%E6%AD%8C"
+        }
+      ]
+    },
+    {
+      "title": "生活 箱包",
+      "data": [
+        {
+          "title": "双肩包",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/xiangbao-80!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%8F%8C%E8%82%A9%E5%8C%85-213"
+        },
+        {
+          "title": "钱包",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/qianbao-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%92%B1%E5%8C%85"
+        },
+        {
+          "title": "旅行箱",
+          "img": "//c1.mifile.cn/f/i/15/goods/list/lvxingxiang!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%97%85%E8%A1%8C%E7%AE%B1-216"
+        },
+        {
+          "title": "运动鞋",
+          "img": "//i1.mifile.cn/f/i/g/2015/shenghuahui140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%BF%90%E5%8A%A8%E9%9E%8B-217"
+        },
+        {
+          "title": "服饰",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/txv140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%9C%8D%E9%A5%B0-218"
+        },
+        {
+          "title": "眼镜",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/tyj140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%9C%BC%E9%95%9C-219"
+        },
+        {
+          "title": "床垫",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/chuangdain-140-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E5%BA%8A%E5%9E%AB-220"
+        },
+        {
+          "title": "枕头",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/zhento.u140.png",
+          "url": "https://search.mi.com/search_%E6%9E%95%E5%A4%B4-221"
+        },
+        {
+          "title": "沙发",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/shafa.140.png",
+          "url": "https://search.mi.com/search_%E6%B2%99%E5%8F%91-223"
+        },
+        {
+          "title": "饰品",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/jinmitu!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%A5%B0%E5%93%81-245"
+        },
+        {
+          "title": "螺丝刀",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/luosidao-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E8%9E%BA%E4%B8%9D%E5%88%80"
+        },
+        {
+          "title": "保温杯",
+          "img": "//i1.mifile.cn/f/i/g/2015/bbbbei!70x70.jpg",
+          "url": "https://item.mi.com/1174800007.html?cfrom=search"
+        },
+        {
+          "title": "伞",
+          "img": "//i1.mifile.cn/f/i/g/2015/umbrella!70x70.jpg",
+          "url": "https://item.mi.com/product/6124.html"
+        },
+        {
+          "title": "驱蚊器",
+          "img": "//i1.mifile.cn/f/i/g/2015/quwenqi!70x70.jpg",
+          "url": "https://search.mi.com/search_%E9%A9%B1%E8%9A%8A%E5%99%A8-229"
+        },
+        {
+          "title": "尤克里里",
+          "img": "//i1.mifile.cn/f/i/g/2015/ukelele!70x70.jpg",
+          "url": "https://item.mi.com/product/7716.html"
+        },
+        {
+          "title": "毛巾/浴巾",
+          "img": "//i1.mifile.cn/f/i/g/2015/maojinmaojin!70x70.jpg",
+          "url": "https://search.mi.com/search_%E6%AF%9B%E5%B7%BE%20%E6%B5%B4%E5%B7%BE-231"
+        },
+        {
+          "title": "米兔",
+          "img": "//c1.mifile.cn/f/i/g/2015/cn-index/mitu-140!70x70.jpg",
+          "url": "https://search.mi.com/search_米兔-232"
+        },
+        {
+          "title": "签字笔",
+          "img": "//i1.mifile.cn/f/i/g/2015/cn-index/qianzibi-140!70x70.jpg",
+          "url": "https://search.mi.com/search_%E7%AD%BE%E5%AD%97%E7%AC%94-233"
+        }
+      ]
+    }
+  ]
+}
