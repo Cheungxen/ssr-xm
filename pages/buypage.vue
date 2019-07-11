@@ -65,6 +65,12 @@
               </el-radio>
             </el-radio-group>
           </div>
+          <div class="baoxiu">
+            <h2>选择小米提供的意外保护</h2>
+            <div class="baoxiu-product">
+              
+            </div>
+          </div>
         </div>
       </div>
     </div>
