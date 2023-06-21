@@ -22,7 +22,7 @@
     "koa-session": "^5.12.0",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.15",
-    "nuxt": "^2.4.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
